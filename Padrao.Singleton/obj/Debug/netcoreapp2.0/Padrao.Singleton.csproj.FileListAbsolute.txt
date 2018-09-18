@@ -1,0 +1,9 @@
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\bin\Debug\netcoreapp2.0\Padrao.Singleton.deps.json
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\bin\Debug\netcoreapp2.0\Padrao.Singleton.dll
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\bin\Debug\netcoreapp2.0\Padrao.Singleton.pdb
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\obj\Debug\netcoreapp2.0\Padrao.Singleton.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\obj\Debug\netcoreapp2.0\Padrao.Singleton.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\obj\Debug\netcoreapp2.0\Padrao.Singleton.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\obj\Debug\netcoreapp2.0\Padrao.Singleton.AssemblyInfo.cs
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\obj\Debug\netcoreapp2.0\Padrao.Singleton.dll
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\Padrao.Singleton\obj\Debug\netcoreapp2.0\Padrao.Singleton.pdb

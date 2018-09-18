@@ -1,0 +1,10 @@
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\bin\Debug\netcoreapp2.0\APP.Threading.deps.json
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\bin\Debug\netcoreapp2.0\APP.Threading.runtimeconfig.json
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\bin\Debug\netcoreapp2.0\APP.Threading.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\bin\Debug\netcoreapp2.0\APP.Threading.dll
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\bin\Debug\netcoreapp2.0\APP.Threading.pdb
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\obj\Debug\netcoreapp2.0\APP.Threading.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\obj\Debug\netcoreapp2.0\APP.Threading.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\obj\Debug\netcoreapp2.0\APP.Threading.AssemblyInfo.cs
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\obj\Debug\netcoreapp2.0\APP.Threading.dll
+C:\Users\logonrmlocal\Downloads\LIB.BoasPraticas\APP.Threading\obj\Debug\netcoreapp2.0\APP.Threading.pdb
