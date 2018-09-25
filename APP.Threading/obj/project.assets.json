@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\APP.Threading\\APP.Threading.csproj",
+      "projectUniqueName": "D:\\CSharp.BoasPraticas\\APP.Threading\\APP.Threading.csproj",
       "projectName": "APP.Threading",
-      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\APP.Threading\\APP.Threading.csproj",
+      "projectPath": "D:\\CSharp.BoasPraticas\\APP.Threading\\APP.Threading.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\APP.Threading\\obj\\",
+      "outputPath": "D:\\CSharp.BoasPraticas\\APP.Threading\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

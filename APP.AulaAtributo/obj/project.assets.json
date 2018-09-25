@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\APP.AulaAtributo\\APP.AulaAtributo.csproj",
+      "projectUniqueName": "D:\\CSharp.BoasPraticas\\APP.AulaAtributo\\APP.AulaAtributo.csproj",
       "projectName": "APP.AulaAtributo",
-      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\APP.AulaAtributo\\APP.AulaAtributo.csproj",
+      "projectPath": "D:\\CSharp.BoasPraticas\\APP.AulaAtributo\\APP.AulaAtributo.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\APP.AulaAtributo\\obj\\",
+      "outputPath": "D:\\CSharp.BoasPraticas\\APP.AulaAtributo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

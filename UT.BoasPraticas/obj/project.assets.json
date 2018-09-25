@@ -5732,11 +5732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\UT.BoasPraticas\\UT.BoasPraticas.csproj",
+      "projectUniqueName": "D:\\CSharp.BoasPraticas\\UT.BoasPraticas\\UT.BoasPraticas.csproj",
       "projectName": "UT.BoasPraticas",
-      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\UT.BoasPraticas\\UT.BoasPraticas.csproj",
+      "projectPath": "D:\\CSharp.BoasPraticas\\UT.BoasPraticas\\UT.BoasPraticas.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\UT.BoasPraticas\\obj\\",
+      "outputPath": "D:\\CSharp.BoasPraticas\\UT.BoasPraticas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5755,11 +5755,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj": {
-              "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj"
+            "D:\\CSharp.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj": {
+              "projectPath": "D:\\CSharp.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj"
             },
-            "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj": {
-              "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj"
+            "D:\\CSharp.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj": {
+              "projectPath": "D:\\CSharp.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj"
             }
           }
         }

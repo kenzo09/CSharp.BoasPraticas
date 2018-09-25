@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj",
+      "projectUniqueName": "D:\\CSharp.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj",
       "projectName": "Debugger.Dicas",
-      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj",
+      "projectPath": "D:\\CSharp.BoasPraticas\\Debugger.Dicas\\Debugger.Dicas.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Debugger.Dicas\\obj\\",
+      "outputPath": "D:\\CSharp.BoasPraticas\\Debugger.Dicas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

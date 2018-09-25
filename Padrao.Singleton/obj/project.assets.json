@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj",
+      "projectUniqueName": "D:\\CSharp.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj",
       "projectName": "Padrao.Singleton",
-      "projectPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj",
+      "projectPath": "D:\\CSharp.BoasPraticas\\Padrao.Singleton\\Padrao.Singleton.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Downloads\\LIB.BoasPraticas\\Padrao.Singleton\\obj\\",
+      "outputPath": "D:\\CSharp.BoasPraticas\\Padrao.Singleton\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
